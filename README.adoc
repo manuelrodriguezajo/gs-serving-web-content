@@ -15,7 +15,7 @@
 This guide walks you through the process of creating a "hello world" web site with Spring.
 
 == What you'll build
-
+``+
 You'll build an application that has a static home page, and also will accept HTTP GET requests at:
 
     http://localhost:8080/greeting
